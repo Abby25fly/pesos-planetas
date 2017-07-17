@@ -12,3 +12,4 @@ function pesoPlanet(peso) {
   document.write("Tu peso en Neptuno es " + pesoNept + " Kg" + "<br \>");
 }
 pesoPlanet(peso);
+
